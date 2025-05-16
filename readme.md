@@ -6,3 +6,5 @@
 is the second guest, and what is localhost:5672 is for?
 
     first guest is the username to connect to rabbitmq, and the second one is the password. localhost:5672 is the address of the rabbitmq server.
+
+![alt text](image.png)
